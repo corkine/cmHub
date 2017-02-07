@@ -19,4 +19,6 @@ i like：
 
 {{title}}，{{hovertext}}。值：{{ilove}}，不值：{{ihate}} 来源：{{source}} 地址: {{url}}
 
-{{title}}，{{hovertext}}。{{ilove}}：{{ihate}} {{source}} {{url}}
+{{title}}，{{hovertext}}; 值/不值: {{ilove}}/{{ihate}}; {{source}} {{url}}
+
+MI 小米 Note 移动联通双4G手机，868。值/不值：7/16；京东 http://www.smzdm.com/p/6902332/
