@@ -10,7 +10,7 @@
 
 引用地址：http://info.mazhangjing.com/stamp/cm/cm-original.png
 
-![](/cm-original.png)
+![](cm-original.png)
 
 ## CM-ART
 
@@ -18,7 +18,7 @@
 
 引用地址：http://info.mazhangjing.com/stamp/cm/cm-art.png
 
-![](/cm-art.png)
+![](cm-art.png)
 
 ## CM-RED
 
@@ -26,7 +26,7 @@
 
 引用地址：http://info.mazhangjing.com/stamp/cm/cm-red.png
 
-![](/cm-red.png)
+![](cm-red.png)
 
 
 
