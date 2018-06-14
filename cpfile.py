@@ -105,11 +105,17 @@ def push_stuff():
         print("上传到远程服务器失败",process.communicate())
         return 0
     else: return 1
+
+def submit(pull_first=True):
+    if pull_first:
+        if not pull_stuff():        
+            return "失败！"
+    if get_status():
+        if add_stuff():
+            if commit_stuff():
+                    if push_stuff():
+                        print("成功！")
+    
 if __name__ == "__main__":
     # transfile(fast=True,from_source=from_source,to_source=to_source)
-    if pull_stuff():
-        if get_status():
-            if add_stuff():
-                if commit_stuff():
-                        if push_stuff():
-                            print("成功！")
+    submit()
